@@ -1,0 +1,5 @@
+rootProject.name = 'AR-App'
+include 'AR-db'
+include 'AR-api'
+include 'AR-service'
+
